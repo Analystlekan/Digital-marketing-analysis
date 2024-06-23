@@ -1,6 +1,4 @@
-Here is a detailed README for your Digital Marketing Dashboard project using Tableau:
 
----
 
 # Digital Marketing Dashboard
 
