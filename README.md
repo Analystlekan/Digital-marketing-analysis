@@ -42,6 +42,7 @@ For this project, I used Tableau as the primary tool for data analysis and visua
 
 5. **Top 5 Pageviews by Title**: A bar chart displaying the top 5 page titles by the number of pageviews.
  
+![Screenshot (7)](https://github.com/Analystlekan/Digital-marketing-analysis/assets/172055479/e266b585-58c2-4f59-bc8c-0ab49a884710)
 
 ## Conclusion
 
